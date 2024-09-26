@@ -10,6 +10,7 @@ features:
 - toc.integrate
 - navigation.top
 - search.suggest
+language: de
 
 nav:
 - Home: willkommen.md
