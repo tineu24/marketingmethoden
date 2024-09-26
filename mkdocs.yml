@@ -7,8 +7,6 @@ features:
 - navigation.instant.progress
 - navigation.instant.preview
 - navigation.tracking
-- navigation.tabs
-- navigation.tabs.sticky
 - navigation.sections
 - navigation.expand
 - toc.integrate
