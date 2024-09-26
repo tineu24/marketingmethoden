@@ -1,9 +1,6 @@
 site_name: Marketingmethoden
 site_url: https://mydomain.org/mysite
 theme:
-  palette:
-    primary: indigo
-    accent: indigo
 name: material
 features:
 - navigation.tracking
