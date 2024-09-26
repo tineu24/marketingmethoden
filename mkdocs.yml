@@ -6,6 +6,7 @@ features:
 - navigation.tracking
 - navigation.sections
 - navigation.expand
+- navigation.path
 - toc.integrate
 - navigation.top
 - search.suggest
