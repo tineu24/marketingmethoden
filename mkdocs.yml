@@ -10,9 +10,7 @@ features:
 - navigation.sections
 - navigation.expand
 - toc.integrate
-- toc.follow
 - navigation.top
-- navigation.path
 - search.suggest
 
 nav:
