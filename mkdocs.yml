@@ -14,10 +14,10 @@ features:
 - search.suggest
 
 nav:
-- Home: wilkommen.md
+- Home: willkommen.md
 - Introduction: index.md
 - Grundlagen: 
-  - Statistik: Grundlagen/grundlagenstatistik.md
-  - empirisches Arbeiten: Grundlagen/grundlagenempirischesarbeiten.md
+  - Statistik: grundlagen/grundlagenstatistik.md
+  - empirisches Arbeiten: grundlagen/grundlagenempirischesarbeiten.md
 - experimentelles Design: experimentellesdesign.md
 
