@@ -19,3 +19,6 @@ nav:
   - Statistik: Grundlagen/grundlagenstatistik.md
   - empirisches Arbeiten: Grundlagen/grundlagenempirischesarbeiten.md
 - experimentelles Design: experimentellesdesign.md
+
+extra_css:
+  - stylesheets/extra.css
