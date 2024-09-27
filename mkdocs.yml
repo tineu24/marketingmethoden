@@ -2,6 +2,7 @@ site_name: Marketingmethoden
 site_url: https://mydomain.org/mysite
 theme:
 name: material
+language: de
 features:
 - navigation.tracking
 - navigation.sections
@@ -10,8 +11,6 @@ features:
 - toc.integrate
 - navigation.top
 - search.suggest
-theme:
-  language: de
 
 nav:
 - Home: willkommen.md
@@ -20,4 +19,3 @@ nav:
   - Statistik: Grundlagen/grundlagenstatistik.md
   - empirisches Arbeiten: Grundlagen/grundlagenempirischesarbeiten.md
 - experimentelles Design: experimentellesdesign.md
-
