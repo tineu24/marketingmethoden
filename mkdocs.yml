@@ -13,7 +13,7 @@ features:
 - search.suggest
 
 nav:
-- Administratives: willkommen.md
+- Administratives: admin.md
 - Grundlagen: 
   - Statistik: Grundlagen/grundlagenstatistik.md
   - empirisches Arbeiten: Grundlagen/grundlagenempirischesarbeiten.md
