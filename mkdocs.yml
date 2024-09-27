@@ -18,7 +18,7 @@ nav:
   - Statistik: Grundlagen/grundlagenstatistik.md
   - empirisches Arbeiten: Grundlagen/grundlagenempirischesarbeiten.md
 - experimentelles Design: experimentellesdesign.md
--Analysemodelle: 
+- Analysemodelle: 
   - Regression: Analysemodelle/regression.md
   - Varianzanalyse: Analysemodelle/varianzanalyse.md
   - Mediation: Analysemodelle/mediation.md
