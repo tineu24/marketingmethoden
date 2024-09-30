@@ -18,9 +18,9 @@ nav:
   - Statistik: Grundlagen/grundlagenstatistik.md
   - empirisches Arbeiten: Grundlagen/grundlagenempirischesarbeiten.md
 - experimentelles Design:
-  - experimentelles Design: experimentelles Design/experimentellesdesign.md
-  - einfaktorielles Design: experimentelles Design/einfaktoriellesdesign.md
-  - zweifaktorielles Design: experimentelles Design/zweifaktoriellesdesign.md
+  - experimentelles Design: experimentellesdesign/experimentellesdesign.md
+  - einfaktorielles Design: experimentellesdesign/einfaktoriellesdesign.md
+  - zweifaktorielles Design: experimentellesdesign/zweifaktoriellesdesign.md
 - Analysemodelle: 
   - Regression: Analysemodelle/regression.md
   - Varianzanalyse: Analysemodelle/varianzanalyse.md
